@@ -1,0 +1,1 @@
+mode switching and overview  buttons in the app need to be uppercase and bolded before screenshotting.
